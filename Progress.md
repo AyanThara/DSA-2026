@@ -5,8 +5,8 @@
 2 Sum of numbers    
 3 Sum of numbers till n 
 4 Factorial of number   
-5 Prime numbers  -
--pseudo code  
+5 Prime numbers  
+-pseudo code 
 ### Notes  -
 - Understood how flowcharts help before coding
 - Learned how variables store data in C++ 
