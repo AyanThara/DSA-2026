@@ -276,5 +276,3 @@ Note:
 - Arrays are passed to functions by reference in C++
 - Passing the array size is necessary when working with functions
 
-__
-
