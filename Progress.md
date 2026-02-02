@@ -276,5 +276,8 @@ Note:
 ### Key Learnings
 - Arrays are passed to functions by reference in C++
 - Passing the array size is necessary when working with functions
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 14 – Time complexity
+###  Topics Covered
+-Time complexity and space complexity 
+-Duplicate in an array -coding ninjas 
