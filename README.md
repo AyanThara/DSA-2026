@@ -1,7 +1,6 @@
 # 📘 DSA Journey 2026
 
 This repository documents my complete Data Structures & Algorithms journey starting in 2026.
-
 ### 🔥 Why this repo?
 - To build strong DSA fundamentals
 - To stay consistent and disciplined
