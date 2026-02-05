@@ -277,7 +277,24 @@ Note:
 - Arrays are passed to functions by reference in C++
 - Passing the array size is necessary when working with functions
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 📅 Day 14 – Time complexity
-###  Topics Covered
--Time complexity and space complexity 
--Duplicate in an array -coding ninjas 
+## 📅 Day 14 – Time Complexity & Binary Search
+### Topics Covered
+- Introduction to time complexity
+- Understanding linear time complexity (O(n))
+- Understanding logarithmic time complexity (O(log n))
+- Binary search algorithm
+- Conditions for applying binary search (sorted array)
+- Correct calculation of mid in binary search
+
+### Programs Practiced
+- Implementing binary search using iteration
+- Searching an element in a sorted array
+- Comparing linear search and binary search performance
+- Debugging common binary search mistakes
+
+### Key Learnings
+- Binary search works only on sorted arrays
+- Binary search reduces the search space by half in each iteration
+- Correct mid calculation using `start + (end - start) / 2` is important
+- Binary search is more efficient than linear search for large inputs
+
