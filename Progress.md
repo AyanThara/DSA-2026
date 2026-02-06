@@ -293,6 +293,7 @@ Note:
 - Debugging common binary search mistakes
 -First and Last Position of an Element In Sorted Array -Coding ninjas
 -Peak Element in the mountain array using binary search -Leetcode
+-Pivot Element in the sorted reverse array
 ### Key Learnings
 - Binary search works only on sorted arrays
 - Binary search reduces the search space by half in each iteration
