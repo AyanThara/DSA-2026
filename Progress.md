@@ -104,7 +104,6 @@ AAAA
 BBBB
 CCCC
 DDDD
-
 ### Pattern 11 – Alphabet column pattern
 ABCD
 ABCD
@@ -114,7 +113,6 @@ ABCD
 ABC
 DEF
 GHI
-
 Topics covered:
 - Bitwise operators:
   - AND (&)
@@ -140,7 +138,7 @@ Note:
 - Understood how right shift divides a number by powers of 2
 - Practiced operator behavior in expressions
 -  Learned the difference between pre and post increment/decrement
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 7
 ### Topics Covered
 - for loop
