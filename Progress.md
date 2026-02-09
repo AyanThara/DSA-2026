@@ -1,7 +1,7 @@
 ## 📅 Day 1
 ### Topics Covered 
 - Flowcharts   
-1 Triangle or not 0-
+1 Triangle or not 
 2 Sum of numbers    
 3 Sum of numbers till n
 4 Factorial of number
