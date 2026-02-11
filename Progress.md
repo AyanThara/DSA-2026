@@ -277,7 +277,6 @@ Note:
 - Binary search algorithm
 - Conditions for applying binary search (sorted array)
 - Correct calculation of mid in binary search
-
 ### Programs Practiced
 - Implementing binary search using iteration
 - Searching an element in a sorted array
@@ -291,4 +290,10 @@ Note:
 - Binary search reduces the search space by half in each iteration
 - Correct mid calculation using `start + (end - start) / 2` is important
 - Binary search is more efficient than linear search for large inputs
-
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 15 – Selection Sort
+-Understanding the selection sort 
+-undersatnding the time complexity 
+### Programs Practiced
+- implemented selection sort on coding ninjas
+- 
