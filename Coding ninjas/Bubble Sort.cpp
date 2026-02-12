@@ -10,9 +10,9 @@ Approach:
 
 void bubbleSort(vector<int>& arr) {
     int n = arr.size();
-    for(int i = 0; i < n - 1; i++) {
+    for(int i = 0; i < n - 1; i++) {//loop tell that how many rounds re taking place 
         bool swapped =false;//take a variable nd make it false 
-        for(int j = 0; j < n - i - 1; j++) {
+        for(int j = 0; j < n - i - 1; j++) {//run till n-i-1 so that the already swwapped elements are not checked
             if(arr[j] > arr[j + 1]) {
                 swap(arr[j], arr[j + 1]);
                 swapped = true;//if swap then update to true 
