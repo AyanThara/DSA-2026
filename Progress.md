@@ -1,4 +1,4 @@
-## 📅 Day 1
+5## 📅 Day 1
 ### Topics Covered 
 - Flowcharts   
 1 Triangle or not 
@@ -235,7 +235,6 @@ Note:
 - Return types
 - Pass by value
 - Pass by reference
-
 ### 🧩 Problems Solved
 1. Add two numbers using function  
 2. Maximum of three numbers using function
