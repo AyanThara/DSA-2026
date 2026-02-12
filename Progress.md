@@ -311,7 +311,7 @@ Note:
 - Binary search is more efficient than linear search for large inputs
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 15 – Selection Sort & Bubble Sort
-### 📘 Topics Covered
+###  Topics Covered
 - Understanding Selection Sort
 - Understanding Bubble Sort
 - Best Case, Worst Case and Average Case
@@ -320,13 +320,12 @@ Note:
 - Optimizing Bubble Sort using early stopping
 
   
-### 💻 Programs Practiced
+###  Programs Practiced
 - Implemented Selection Sort (Coding Ninjas)
 - Implemented Bubble Sort (Coding Ninjas)
 - Optimized Bubble Sort using flag technique
 
-### 🧠 Key Learnings
-
+###  Key Learnings
 ####  Selection Sort
 - Select the minimum element from unsorted part
 - Swap it with current index
@@ -336,8 +335,8 @@ Note:
   - Average Case: O(n²)
   - Worst Case: O(n²)
 - Space Complexity: O(1)
-- Stable: ❌ No
-- In-place: ✅ Yes
+- Stable:  No
+- In-place:  Yes
 
 ####  Bubble Sort
 - Compare adjacent elements
@@ -348,6 +347,6 @@ Note:
   - Average Case: O(n²)
   - Worst Case: O(n²)
 - Space Complexity: O(1)
-- Stable: ✅ Yes
-- In-place: ✅ Yes
+- Stable:  Yes
+- In-place: Yes
 
