@@ -310,43 +310,62 @@ Note:
 - Correct mid calculation using `start + (end - start) / 2` is important
 - Binary search is more efficient than linear search for large inputs
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 📅 Day 15 – Selection Sort & Bubble Sort
+## 📅 Day 15 – Sorting Algorithms
 ###  Topics Covered
 - Understanding Selection Sort
 - Understanding Bubble Sort
-- Best Case, Worst Case and Average Case
+- Understanding Insertion Sort
+- Best Case, Worst Case, Average Case
 - In-place sorting
 - Stable vs Unstable sorting
 - Optimizing Bubble Sort using early stopping
 
-  
-###  Programs Practiced
-- Implemented Selection Sort (Coding Ninjas)
-- Implemented Bubble Sort (Coding Ninjas)
-- Optimized Bubble Sort using flag technique
 
-###  Key Learnings
-####  Selection Sort
-- Select the minimum element from unsorted part
+## Selection Sort
+### Concept
+- Select minimum element from unsorted part
 - Swap it with current index
 - After each round, one element gets fixed
-- Time Complexity:
-  - Best Case: O(n²)
-  - Average Case: O(n²)
-  - Worst Case: O(n²)
-- Space Complexity: O(1)
+### Complexity
+- Best Case: O(n²)
+- Average Case: O(n²)
+- Worst Case: O(n²)
+- Space: O(1)
 - Stable:  No
 - In-place:  Yes
 
-####  Bubble Sort
+
+
+## Bubble Sort
+### Concept
 - Compare adjacent elements
 - Swap if left > right
 - After each round, largest element moves to end
-- Time Complexity:
-  - Best Case: O(n) (optimized version)
-  - Average Case: O(n²)
-  - Worst Case: O(n²)
-- Space Complexity: O(1)
+### Complexity
+- Best Case: O(n) (Optimized)
+- Average Case: O(n²)
+- Worst Case: O(n²)
+- Space: O(1)
 - Stable:  Yes
-- In-place: Yes
+- In-place:  Yes
 
+
+
+## Insertion Sort
+###  Concept
+- Pick element
+- Shift bigger elements right
+- Insert element at correct position
+### Complexity
+- Best Case: O(n)
+- Average Case: O(n²)
+- Worst Case: O(n²)
+- Space: O(1)
+- Stable:  Yes
+- In-place:  Yes
+
+###  Programs Practiced
+- Implemented Selection Sort (Coding Ninjas)
+- Implemented Bubble Sort (Coding Ninjas)
+- Implemented Optimized Bubble Sort
+- Implemented Insertion Sort
