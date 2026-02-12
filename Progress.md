@@ -133,6 +133,8 @@ Note:
   - Post-increment (`i++`).
   - Pre-decrement (`--i`).
   - Post-decrement (`i--`)
+ 
+    
 ### Notes
 - Understood how left shift multiplies a number by powers of 2
 - Understood how right shift divides a number by powers of 2
@@ -150,6 +152,8 @@ Note:
   - if–else
   - operators
   - pattern logic
+
+  
 ### Notes
 - Understood syntax and use of for loop
 - Learned difference between for loop and while loop
@@ -165,7 +169,8 @@ Note:
   - Global variables
 - Operator precedence
 - Revision of previous concepts
-- 
+
+
 ### Notes
 - Understood the difference between local and global variable scope
 - Learned how variable scope affects accessibility and lifetime
@@ -182,11 +187,13 @@ Note:
 - Understanding why power logic fails for reverse
 - Bitwise operators (&, >>)
 
+
 ## Key Learnings
 - Reverse integer works using shifting logic:  'ans = ans * 10 + digit'
 - Power-based logic requires correct digit order
 - Decimal to Binary uses positional placement, not reverse logic
 - '%10 /10' is for decimal, '&1 >>1` is for binary
+
 
 ## Problems Solved
 - LeetCode 7: Reverse Integer
@@ -199,9 +206,11 @@ Note:
 - Looping
 - Array manipulation
 
+
   ## Problems Solved
 1. LeetCode 412 – Fizz Buzz
 2. Reverse an Array – GeeksforGeeks
+
    
 ## Key Learnings
 - Used conditional checks to solve Fizz Buzz
@@ -216,11 +225,13 @@ Note:
 - Basic control flow
 - Bit manipulation basics
 
+
 ### 🧩 Problems Solved
 1. LeetCode 1009 – Complement of Base 10 Integer
 2. LeetCode 231 – Power of Two
 3. Fibonacci Series (Basic Program)
 4. Simple Calculator using switch
+   
 
 ### Key Learnings 
 - Practiced switch statements
@@ -235,12 +246,15 @@ Note:
 - Return types
 - Pass by value
 - Pass by reference
+
+  
 ### 🧩 Problems Solved
 1. Add two numbers using function  
 2. Maximum of three numbers using function
 3. Fibonacci series using loop  
 4. Nth term of AP using function  
 5. Swap two numbers (pass by value vs pass by reference)
+
 
 ### 🧠 Key Learnings
 - Understood how functions improve code reusability
@@ -258,11 +272,13 @@ Note:
 - Swapping alternate elements
 - Understanding linear time complexity (O(n))
   
+  
 ### Programs Practiced
 - Printing an array using a function
 - Finding the maximum element in an array
 - Swapping alternate elements in an array
 - Finding the unique element in an array (Coding Ninjas)
+  
 
 ### Key Learnings
 - Arrays are passed to functions by reference in C++
@@ -276,6 +292,8 @@ Note:
 - Binary search algorithm
 - Conditions for applying binary search (sorted array)
 - Correct calculation of mid in binary search
+
+  
 ### Programs Practiced
 - Implementing binary search using iteration
 - Searching an element in a sorted array
@@ -284,15 +302,52 @@ Note:
 -First and Last Position of an Element In Sorted Array -Coding ninjas
 -Peak Element in the mountain array using binary search -Leetcode
 -Pivot Element in the sorted reverse array
+
+
 ### Key Learnings
 - Binary search works only on sorted arrays
 - Binary search reduces the search space by half in each iteration
 - Correct mid calculation using `start + (end - start) / 2` is important
 - Binary search is more efficient than linear search for large inputs
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## 📅 Day 15 – Selection Sort
--Understanding the selection sort 
--undersatnding the time complexity 
-### Programs Practiced
-- implemented selection sort on coding ninjas
+## 📅 Day 15 – Selection Sort & Bubble Sort
+### 📘 Topics Covered
+- Understanding Selection Sort
+- Understanding Bubble Sort
+- Best Case, Worst Case and Average Case
+- In-place sorting
+- Stable vs Unstable sorting
+- Optimizing Bubble Sort using early stopping
+
+  
+### 💻 Programs Practiced
+- Implemented Selection Sort (Coding Ninjas)
+- Implemented Bubble Sort (Coding Ninjas)
+- Optimized Bubble Sort using flag technique
+
+### 🧠 Key Learnings
+
+####  Selection Sort
+- Select the minimum element from unsorted part
+- Swap it with current index
+- After each round, one element gets fixed
+- Time Complexity:
+  - Best Case: O(n²)
+  - Average Case: O(n²)
+  - Worst Case: O(n²)
+- Space Complexity: O(1)
+- Stable: ❌ No
+- In-place: ✅ Yes
+
+####  Bubble Sort
+- Compare adjacent elements
+- Swap if left > right
+- After each round, largest element moves to end
+- Time Complexity:
+  - Best Case: O(n) (optimized version)
+  - Average Case: O(n²)
+  - Worst Case: O(n²)
+- Space Complexity: O(1)
+- Stable: ✅ Yes
+- In-place: ✅ Yes
 
