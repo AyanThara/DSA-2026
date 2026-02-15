@@ -26,5 +26,4 @@ This repository documents my complete Data Structures & Algorithms journey start
 - Trees
 - Recursion
 - Dynamic Programming
-
 > Consistency over intensity.
