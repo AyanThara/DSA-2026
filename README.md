@@ -10,7 +10,7 @@ This repository documents my complete Data Structures & Algorithms journey start
 - LeetCode practice
 - Coding ninjas 
 
-### 🧠 Languages Used
+###  Languages Used
 - C++
 - (Later: Java / Python if needed)
 
