@@ -1,4 +1,4 @@
-5## 📅 Day 1
+## 📅 Day 1
 ### Topics Covered 
 - Flowcharts   
 1 Triangle or not 
@@ -309,7 +309,7 @@ Note:
 - Binary search reduces the search space by half in each iteration
 - Correct mid calculation using `start + (end - start) / 2` is important
 - Binary search is more efficient than linear search for large inputs
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 15 – Sorting Algorithms
 ###  Topics Covered
 - Understanding Selection Sort
@@ -350,7 +350,6 @@ Note:
 - In-place:  Yes
 
 
-
 ## Insertion Sort
 ###  Concept
 - Pick element
@@ -369,3 +368,11 @@ Note:
 - Implemented Bubble Sort (Coding Ninjas)
 - Implemented Optimized Bubble Sort
 - Implemented Insertion Sort
+------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 16 – Array problems
+### Problems Solved 
+- Reversing an array after a given index (M position)
+- Merging two sorted arrays
+- Using two-pointer technique
+- Understanding in-place operations
+
