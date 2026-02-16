@@ -10,10 +10,6 @@ Maintain consistency through daily practice
 C++
 Cpp
 Problems Solved
-
-
-Basic question to solve on leetcode using cpp basics
-| Problem No. | Problem Name                                         | Difficulty |
 | Problem No. | Problem Name                                         | Difficulty |
 | ----------- | ---------------------------------------------------- | ---------- |
 | 1281        | Subtract the Product and Sum of Digits of an Integer | Easy       |
@@ -24,5 +20,7 @@ Basic question to solve on leetcode using cpp basics
 | 852         | Peak Index in a Mountain Array                       | Easy       |
 | 283         | Move Zeroes                                          | Easy       |
 | 189         | Rotate Array                                         | Medium     |
+| 1752        | Check if Array Is Sorted and Rotated                 | Easy       |
+
 
 
