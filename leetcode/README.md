@@ -22,4 +22,4 @@ Problems Solved
 | 189         | Rotate Array                                         | Medium     |
 | 1752        | Check if Array Is Sorted and Rotated                 | Easy       |
 | 53          | Maximum Subarray               -  Kadane’s Algorithm | Medium     |
-
+| 169         | Majority Element                                       | East    |
