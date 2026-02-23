@@ -25,3 +25,4 @@ Problems Solved
 | 169         | Majority Element                                     | Easy       |
 | 121         | Best Time to Buy and Sell Stock                      | Easy       |
 | 238      |Product of Array Except Self                 | Medium       |
+| 344      |Reverse String               | Easy|
