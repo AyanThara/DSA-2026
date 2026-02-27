@@ -24,6 +24,6 @@ Problems Solved
 | 53          | Maximum Subarray               -  Kadane’s Algorithm | Medium     |
 | 169         | Majority Element                                     | Easy       |
 | 121         | Best Time to Buy and Sell Stock                      | Easy       |
-| 238      |Product of Array Except Self                 | Medium       |
-| 344      |Reverse String               | Easy|
-| 121         | Valid Palindrome                    | Easy       |
+| 238         |Product of Array Except Self                          | Medium     |
+| 344         |Reverse String                                        | Easy       |
+| 125         | Valid Palindrome                                     | Easy       |
