@@ -26,3 +26,4 @@ Problems Solved
 | 121         | Best Time to Buy and Sell Stock                      | Easy       |
 | 238      |Product of Array Except Self                 | Medium       |
 | 344      |Reverse String               | Easy|
+| 121         | Valid Palindrome                    | Easy       |
