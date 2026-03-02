@@ -1,4 +1,4 @@
-r## 📅 Day 1
+## 📅 Day 1
 ### Topics Covered 
 - Flowcharts   
 1 Triangle or not 
