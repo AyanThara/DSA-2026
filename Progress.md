@@ -3,7 +3,7 @@
 - Flowcharts   
 1 Triangle or not 
 2 Sum of number    w
-3 Sum of numbers till nw
+3 Sum of numbers till n
 4 Factorial of number
 5 Prime numbers 
 -pseudo code
