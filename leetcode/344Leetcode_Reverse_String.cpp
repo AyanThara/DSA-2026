@@ -19,7 +19,14 @@ In-place Swapping
 This is the most optimal solution because it reverses the string without using extra space. */
 
 
-class Solution {//simple two pointer approach swap approach
+class Solution {
+public:
+    void reverseString(vector<char>& s) { 
+        reverse(s.begin(),s.end());  //using in built reverse function 
+    }
+};
+
+/*class Solution {//simple two pointer approach 
 public:
     void reverseString(vector<char>& s) {
         int start=0;//intilize it with 0 
@@ -30,4 +37,4 @@ public:
             end--;//decrement end
         }
     }
-};
+};*/
