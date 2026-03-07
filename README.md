@@ -2,7 +2,7 @@
 This repository documents my complete Data Structures & Algorithms journey starting in 2026.
 ### 🔥 Why this repo?
 - To build strong DSA fundamentals
-- To stay consistent and discipline
+- To stay consistent and disciplined
 - To document learning with clean code and explanations
   
 ### 📚 Source
