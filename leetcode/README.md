@@ -27,3 +27,4 @@ Problems Solved
 | 238         |Product of Array Except Self                          | Medium     |
 | 344         |Reverse String                                        | Easy       |
 | 125         | Valid Palindrome                                     | Easy       |
+| 1910       | Remove All Occurrences of a Substring                 | Medium     |
