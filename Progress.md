@@ -369,10 +369,32 @@ Note:
 - Implemented Optimized Bubble Sort
 - Implemented Insertion Sort
 ------------------------------------------------------------------------------------------------------------------------------------------------
-## 📅 Day 16 – Array problems
-### Problems Solved 
+## 📅 Day 16 – Array Problems & String Operations
+### Topics Covered
 - Reversing an array after a given index (M position)
 - Merging two sorted arrays
-- Using two-pointer technique
-- Understanding in-place operations
+- Two-pointer technique
+- In-place operations in arrays
+- String input using getline()
+- String functions:
+  - find()
+  - erase()
+- Revision of previous array problems
+
+### Programs Practiced
+- Reverse an array after position M
+- Merge two sorted arrays
+- Move Zeroes (Two-pointer technique)
+- Rotate Array
+- Reverse String
+- Valid Palindrome
+- Remove All Occurrences of a Substring
+
+### Key Learnings
+- Understood how the two-pointer technique simplifies array problems
+- Learned how in-place operations modify arrays without extra memory
+- Practiced string manipulation using find() and erase()
+- Learned the difference between cin and getline() for string input
+- Revised several previously solved problems to strengthen understanding
+------------------------------------------------------------------------------------------------------------------------------------------------
 
