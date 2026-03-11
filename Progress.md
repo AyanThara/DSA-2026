@@ -29,7 +29,7 @@
 - Practiced the first program
 - practiced arithematci and relational and logical operators
 -  Made a simple calculator using arithmetic operators 
---------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 3
 ### Topics Covered
 - while loop
