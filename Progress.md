@@ -7,7 +7,7 @@
 4 Factorial of number 
 5 Prime numbers
 -pseudo code
-### Notes  ;
+### Notes  
 - Understood how flowcharts help before coding
 - Learned how variables store data in C++  
 ------------------------------------------------------------------------------------------------------------------------------------------------
