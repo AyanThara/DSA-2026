@@ -421,6 +421,7 @@ Note:
 - Traversing and printing vector elements
 - Checking size and capacity after multiple insertions
 - Accessing elements using front(), back(), and at()
+- leetcode 136 single element
 
 ### Key Learnings
 - Understood the difference between static arrays and dynamic vectors
