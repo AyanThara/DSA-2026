@@ -262,7 +262,7 @@ Note:
 - Learned that pass by value does not change original variables
 - Learned that pass by reference allows modifying original variables
 - Gained clarity on how memory works during function calls
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 13 – Arrays
 ###  Topics Covered
 - Array declaration and initialization
@@ -283,7 +283,7 @@ Note:
 ### Key Learnings
 - Arrays are passed to functions by reference in C++
 - Passing the array size is necessary when working with functions
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 14 – Time Complexity & Binary Search
 ### Topics Covered
 - Introduction to time complexity
@@ -397,4 +397,35 @@ Note:
 - Learned the difference between cin and getline() for string input
 - Revised several previously solved problems to strengthen understanding
 ------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 17 – Vector Basics & Dynamic Arrays
 
+### Topics Covered
+- Introduction to vectors in C++
+- Difference between static and dynamic arrays
+- Basic vector operations
+- Vector functions:
+  - push_back()
+  - pop_back()
+  - size()
+  - capacity()
+- Element access methods:
+  - front()
+  - back()
+  - at()
+- Understanding dynamic resizing in vectors
+
+### Programs Practiced
+- Inserting elements using push_back()
+- Removing elements using pop_back()
+- Traversing and printing vector elements
+- Checking size and capacity after multiple insertions
+- Accessing elements using front(), back(), and at()
+
+### Key Learnings
+- Understood the difference between static arrays and dynamic vectors
+- Learned how vectors automatically resize when capacity is exceeded
+- Understood the difference between size() and capacity()
+- Learned that push_back() works in O(1) amortized time
+- Practiced different ways to access elements in a vector
+- Gained understanding of how vectors manage memory dynamically
