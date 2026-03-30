@@ -397,9 +397,7 @@ Note:
 - Learned the difference between cin and getline() for string input
 - Revised several previously solved problems to strengthen understanding
 ------------------------------------------------------------------------------------------------------------------------------------------------
-------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 17 – Vector Basics & Dynamic Arrays
-
 ### Topics Covered
 - Introduction to vectors in C++
 - Difference between static and dynamic arrays
@@ -422,6 +420,7 @@ Note:
 - Checking size and capacity after multiple insertions
 - Accessing elements using front(), back(), and at()
 - leetcode 136 single element
+- leetcode 53 MAximum Sub Array Sum(Revise)
 
 ### Key Learnings
 - Understood the difference between static arrays and dynamic vectors
@@ -430,3 +429,4 @@ Note:
 - Learned that push_back() works in O(1) amortized time
 - Practiced different ways to access elements in a vector
 - Gained understanding of how vectors manage memory dynamically
+- Revised Leetcode 53 MAximum Sub Array Sum
