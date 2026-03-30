@@ -1,4 +1,19 @@
-class Solution {
+/*
+class Solution {//brute force approach 
+public:
+    int maxSubArray(vector<int>& nums) {
+        int n = nums.size();
+        int maxsum = nums[0];
+        for(int i = 0; i < n; i++){
+            int currsum = 0;   
+            for(int j = i; j < n; j++){
+                currsum += nums[j];   // use j
+                maxsum = max(maxsum, currsum);
+            }
+        }
+        return maxsum;
+    }
+};*/class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
         int n=nums.size();//take a variable and intialize with nums.size
@@ -13,7 +28,6 @@ public:
     return maxsum;//return max sum
     }
 };
-
 
 /*
 Example Input
