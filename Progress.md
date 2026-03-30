@@ -412,6 +412,7 @@ Note:
   - back()
   - at()
 - Understanding dynamic resizing in vectors
+- Kadane's Algo
 
 ### Programs Practiced
 - Inserting elements using push_back()
@@ -420,7 +421,8 @@ Note:
 - Checking size and capacity after multiple insertions
 - Accessing elements using front(), back(), and at()
 - leetcode 136 single element
-- leetcode 53 MAximum Sub Array Sum(Revise)
+- leetcode 53 MAximum Sub Array Sum(Revise)(brute force,kadane's Algo)
+- Pair sum(revised)(brute force, optimal-using two pointer approach)
 
 ### Key Learnings
 - Understood the difference between static arrays and dynamic vectors
@@ -430,3 +432,4 @@ Note:
 - Practiced different ways to access elements in a vector
 - Gained understanding of how vectors manage memory dynamically
 - Revised Leetcode 53 MAximum Sub Array Sum
+- Revised  Pair Sum
