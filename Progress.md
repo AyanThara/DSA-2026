@@ -398,6 +398,7 @@ Note:
 - Revised several previously solved problems to strengthen understanding
 ------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 17 – Vector Basics & Dynamic Arrays
+
 ### Topics Covered
 - Introduction to vectors in C++
 - Difference between static and dynamic arrays
@@ -412,7 +413,8 @@ Note:
   - back()
   - at()
 - Understanding dynamic resizing in vectors
-- Kadane's Algo
+- Kadane's Algorithm
+- Majority Element Algorithms
 
 ### Programs Practiced
 - Inserting elements using push_back()
@@ -420,16 +422,28 @@ Note:
 - Traversing and printing vector elements
 - Checking size and capacity after multiple insertions
 - Accessing elements using front(), back(), and at()
-- leetcode 136 single element
-- leetcode 53 MAximum Sub Array Sum(Revise)(brute force,kadane's Algo)
-- Pair sum(revised)(brute force, optimal-using two pointer approach)
+
+#### DSA Practice
+- Leetcode 136 – Single Number  
+- Leetcode 53 – Maximum Subarray Sum  
+  - Brute Force  
+  - Kadane's Algorithm  
+- Pair Sum  
+  - Brute Force  
+  - Optimal (Two Pointer Approach)  
+
+#### Majority Element (Leetcode 169)
+- Brute Force (O(n^2))  
+- Sorting Approach (O(n log n))  
+- Moore’s Voting Algorithm (O(n), O(1))  
 
 ### Key Learnings
-- Understood the difference between static arrays and dynamic vectors
-- Learned how vectors automatically resize when capacity is exceeded
-- Understood the difference between size() and capacity()
-- Learned that push_back() works in O(1) amortized time
-- Practiced different ways to access elements in a vector
-- Gained understanding of how vectors manage memory dynamically
-- Revised Leetcode 53 MAximum Sub Array Sum
-- Revised  Pair Sum
+- Understood the difference between static arrays and dynamic vectors  
+- Learned how vectors automatically resize when capacity is exceeded  
+- Understood the difference between size() and capacity()  
+- Learned that push_back() works in O(1) amortized time  
+- Practiced different ways to access elements in a vector  
+- Gained understanding of how vectors manage memory dynamically  
+ -----------------------------------------------------------------------------------------------------------------------------------------------
+
+
