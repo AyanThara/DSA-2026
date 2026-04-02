@@ -445,5 +445,36 @@ Note:
 - Practiced different ways to access elements in a vector  
 - Gained understanding of how vectors manage memory dynamically  
  -----------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 18 – Time & Space Complexity (Revision Day)
+### Topics Covered
+- Introduction to Time Complexity
+- Understanding Big-O Notation
+- Types of Time Complexities:
+  - O(1) – Constant Time
+  - O(log n) – Logarithmic Time
+  - O(n) – Linear Time
+  - O(n log n)
+  - O(n²) – Quadratic Time
+- Best, Average, Worst Case Analysis
+- Space Complexity Basics
+- Auxiliary Space vs Total Space
 
+### Concepts Revised
+- How loops affect time complexity  
+- Time complexity of nested loops  
+- Identifying complexity from code  
+- Difference between O(n²) and O(n log n)  
+- Why sorting takes O(n log n)  
+- Why binary search is O(log n)  
+- Space usage in recursion and arrays  
+
+
+
+### Key Learnings
+- Understood how to calculate time complexity from loops and conditions  
+- Learned that nested loops usually lead to O(n²)  
+- Understood importance of optimizing from brute force to better solutions  
+- Learned how space complexity depends on extra memory used  
+- Understood why some algorithms are faster (log n, n log n)  
+- Gained clarity on choosing optimal approach in interviews  
 
