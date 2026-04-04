@@ -468,8 +468,6 @@ Note:
 - Why binary search is O(log n)  
 - Space usage in recursion and arrays  
 
-
-
 ### Key Learnings
 - Understood how to calculate time complexity from loops and conditions  
 - Learned that nested loops usually lead to O(n²)  
@@ -477,4 +475,18 @@ Note:
 - Learned how space complexity depends on extra memory used  
 - Understood why some algorithms are faster (log n, n log n)  
 - Gained clarity on choosing optimal approach in interviews  
+-----------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 19 –Leetcode(Revision)-Best Time to Buy and Sell Stock (Greedy Approach)
+### Topics Covered
+- Problem: Best Time to Buy and Sell Stock
 
+
+### Problem Solved
+- Best Time to Buy and Sell Stock (LeetCode)
+
+### Key Learnings
+- Understood how to find maximum profit in one pass  
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
