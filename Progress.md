@@ -476,17 +476,23 @@ Note:
 - Understood why some algorithms are faster (log n, n log n)  
 - Gained clarity on choosing optimal approach in interviews  
 -----------------------------------------------------------------------------------------------------------------------------------------------
-## 📅 Day 19 –Leetcode(Revision)-Best Time to Buy and Sell Stock (Greedy Approach)
+## 📅 Day 19 – LeetCode
 ### Topics Covered
-- Problem: Best Time to Buy and Sell Stock
-
+- Problem: Best Time to Buy and Sell Stock - Greedy Algorithm  
+- Problem: Container With Most Water - Two Pointer Technique  
 
 ### Problem Solved
-- Best Time to Buy and Sell Stock (LeetCode)
+- Best Time to Buy and Sell Stock (LeetCode)  
+- Container With Most Water (LeetCode)  
 
 ### Key Learnings
 - Understood how to find maximum profit in one pass  
-
+- Learned to track minimum price dynamically  
+- Improved understanding of greedy approach  
+- Learned how to optimize from O(n²) to O(n)  
+- Understood two pointer technique for reducing time complexity  
+- Learned how area depends on minimum height and distance  
+- Strengthened problem-solving for interview questions   
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
