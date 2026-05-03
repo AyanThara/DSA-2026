@@ -493,6 +493,7 @@ Note:
 - Understood two pointer technique for reducing time complexity  
 - Learned how area depends on minimum height and distance  
 - Strengthened problem-solving for interview questions   
-
-
------------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------
+  ##📅 Day 20 – LeetCode
+  ## Topics Covered
+  -Revised Pass by value and Pass by reference 
