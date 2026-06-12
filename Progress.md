@@ -497,3 +497,12 @@ Note:
   ##📅 Day 20 – LeetCode
   ## Topics Covered
   -Revised Pass by value and Pass by reference 
+  
+  ### Problem Solved
+-Revised Single element (LeetCode)  
+
+  ### Key Learnings
+  -stack vs heap memory
+  -compile time vs run time 
+  
+  
