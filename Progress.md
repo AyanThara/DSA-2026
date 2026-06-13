@@ -237,7 +237,7 @@ Note:
 - Practiced switch statements
 - Solved easy bit manipulation problems
 - Implemented Fibonacci series using loop
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 12
 ###Topics Covered
 - Functions in C++
@@ -501,10 +501,12 @@ Note:
 -Revised Single element (LeetCode)  
 -Maximum subarray sum(brute force,optimal solution)
 -pair sum(bruteforce,optimal)
+-Majority Element(Brute force,optimal,Moore's voting algo)
+
   ### Key Learnings
   -stack vs heap memory
   -compile time vs run time 
   -kadanes algorithm
-  -
+  -Moores's Voting Algorithm
   
   
