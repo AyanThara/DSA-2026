@@ -497,13 +497,14 @@ Note:
   ##📅 Day 20 – LeetCode
   ## Topics Covered
   -Revised Pass by value and Pass by reference 
-  
   ### Problem Solved
 -Revised Single element (LeetCode)  
 -Maximum subarray sum(brute force,optimal solution)
+-pair sum(bruteforce,optimal)
   ### Key Learnings
   -stack vs heap memory
   -compile time vs run time 
   -kadanes algorithm
+  -
   
   
