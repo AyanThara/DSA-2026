@@ -500,9 +500,10 @@ Note:
   
   ### Problem Solved
 -Revised Single element (LeetCode)  
-
+-Maximum subarray sum(brute force,optimal solution)
   ### Key Learnings
   -stack vs heap memory
   -compile time vs run time 
+  -kadanes algorithm
   
   
