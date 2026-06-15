@@ -503,7 +503,7 @@ Note:
 -pair sum(bruteforce,optimal)
 -Majority Element(Brute force,optimal,Moore's voting algo)
 -pow(x,n)-leetcode O(logn)
--Buy and sell stocks
+-Best Time to Buy and sell stocks
 
   ### Key Learnings
   -stack vs heap memory
