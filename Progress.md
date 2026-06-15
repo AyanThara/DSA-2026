@@ -503,6 +503,8 @@ Note:
 -pair sum(bruteforce,optimal)
 -Majority Element(Brute force,optimal,Moore's voting algo)
 -pow(x,n)-leetcode O(logn)
+-Buy and sell stocks
+
   ### Key Learnings
   -stack vs heap memory
   -compile time vs run time 
@@ -510,3 +512,4 @@ Note:
   -Moores's Voting Algorithm
   -Time complexity
   -Binary Exponential
+
