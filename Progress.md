@@ -122,7 +122,7 @@ Topics covered:
 Note:
 - Understood how bitwise operators work at bit level.
 - Practiced basic bitwise operators (AND, OR, XOR, NOT).
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 6
 ### Topics Covered
 - Bitwise operators:
@@ -140,7 +140,7 @@ Note:
 - Understood how right shift divides a number by powers of 2
 - Practiced operator behavior in expressions
 -  Learned the difference between pre and post increment/decrement
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 7
 ### Topics Covered
 - for loop
@@ -161,7 +161,7 @@ Note:
 - practiced sum till n using for loop
 - practiced prime or not prime using for loop
 - Revised earlier concepts to strengthen fundamentals
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 8
 ### Topics Covered
 - Variable scope:
@@ -178,7 +178,7 @@ Note:
 - Practiced evaluating expressions based on precedence rules
 - Solved LeetCode 1281: Subtract the product and sum of digits of a number
 - Solved Leetcode 191: Count the number of set bits
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 9 
 ### Topics Covered
 - Reverse Integer (LeetCode 7)
@@ -504,6 +504,7 @@ Note:
 -Majority Element(Brute force,optimal,Moore's voting algo)
 -pow(x,n)-leetcode O(logn)
 -Best Time to Buy and sell stocks
+-Container wiht most water
 
   ### Key Learnings
   -stack vs heap memory
@@ -512,4 +513,5 @@ Note:
   -Moores's Voting Algorithm
   -Time complexity
   -Binary Exponential
+  
 
