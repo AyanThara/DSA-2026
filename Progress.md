@@ -502,11 +502,11 @@ Note:
 -Maximum subarray sum(brute force,optimal solution)
 -pair sum(bruteforce,optimal)
 -Majority Element(Brute force,optimal,Moore's voting algo)
-
+-pow(x,n)-leetcode O(logn)
   ### Key Learnings
   -stack vs heap memory
   -compile time vs run time 
   -kadanes algorithm
   -Moores's Voting Algorithm
-  
-  
+  -Time complexity
+  -Binary Exponential
