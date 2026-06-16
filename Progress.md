@@ -320,7 +320,6 @@ Note:
 - Stable vs Unstable sorting
 - Optimizing Bubble Sort using early stopping
 
-
 ## Selection Sort
 ### Concept
 - Select minimum element from unsorted part
