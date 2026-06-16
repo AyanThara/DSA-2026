@@ -206,7 +206,6 @@ Note:
 - Looping
 - Array manipulation
 
-
   ## Problems Solved
 1. LeetCode 412 – Fizz Buzz
 2. Reverse an Array – GeeksforGeeks
