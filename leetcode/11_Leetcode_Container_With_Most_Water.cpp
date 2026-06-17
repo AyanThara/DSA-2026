@@ -8,7 +8,6 @@ Think of each number as a vertical wall.
 Pick **two walls** such that they can hold **maximum water** between them.
 
 ---
-
 ## 👶 Explanation (Like 5-Year-Old)
 
 Imagine:
