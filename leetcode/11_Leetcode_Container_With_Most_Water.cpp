@@ -17,7 +17,6 @@ Imagine:
 So:
 - Height = smaller stick
 - Width = distance between sticks
-
 👉 Water = height × width
 
 ---
