@@ -3,7 +3,6 @@
 You are given an array of heights.
 
 Think of each number as a vertical wall.
-
 👉 Your task:
 Pick **two walls** such that they can hold **maximum water** between them.
 
