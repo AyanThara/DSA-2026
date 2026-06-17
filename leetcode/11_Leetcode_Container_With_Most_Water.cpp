@@ -12,7 +12,6 @@ Pick **two walls** such that they can hold **maximum water** between them.
 Imagine:
 - You have two sticks 🪵
 - You pour water between them 🧃
-
 👉 Water will stay only till the **shorter stick**
 
 So:
