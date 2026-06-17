@@ -501,9 +501,6 @@ Note:
 -pair sum(bruteforce,optimal)
 -Majority Element(Brute force,optimal,Moore's voting algo)
 -pow(x,n)-leetcode O(logn)
--Best Time to Buy and sell stocks
--Container wiht most water
-
   ### Key Learnings
   -stack vs heap memory
   -compile time vs run time 
@@ -511,5 +508,11 @@ Note:
   -Moores's Voting Algorithm
   -Time complexity
   -Binary Exponential
-  
-
+----------------------------------------------------------------------------------------------------------------------------------------------
+  ##📅 Day 21 – LeetCode
+   ### Problem Solved
+  -Best Time to Buy and sell stocks
+-Container wiht most water(Brute force,optimal using Two pointer approach)
+  ### Key Learnings
+  -Pointers 
+  -Binary Search Algorithm
