@@ -1,5 +1,4 @@
 # 💧 Container With Most Water
-
 ## 🧠 Problem (Very Simple)
 You are given an array of heights.
 
