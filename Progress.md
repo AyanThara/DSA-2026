@@ -513,6 +513,8 @@ Note:
    ### Problem Solved
   -Best Time to Buy and sell stocks
 -Container wiht most water(Brute force,optimal using Two pointer approach)
+-Product of Array self(Bruteforce,optimal)
   ### Key Learnings
   -Pointers 
   -Binary Search Algorithm
+  -
