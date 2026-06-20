@@ -514,5 +514,6 @@ Note:
 -Product of Array self(Bruteforce,optimal)
   ### Key Learnings
   -Pointer
+  -pointer to pointer
   -Binary Search Algorithm
   -
