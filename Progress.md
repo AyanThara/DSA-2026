@@ -194,7 +194,6 @@ Note:
 - Decimal to Binary uses positional placement, not reverse logic
 - '%10 /10' is for decimal, '&1 >>1` is for binary
 
-
 ## Problems Solved
 - LeetCode 7: Reverse Integer
 - Decimal to Binary Conversion
