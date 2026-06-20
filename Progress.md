@@ -254,7 +254,6 @@ Note:
 4. Nth term of AP using function  
 5. Swap two numbers (pass by value vs pass by reference)
 
-
 ### 🧠 Key Learnings
 - Understood how functions improve code reusability
 - Clearly differentiated between parameters and arguments
