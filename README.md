@@ -3,8 +3,8 @@ This repository documents my complete Data Structures & Algorithms journey start
 ### 🔥 Why this repo?
 - To build strong DSA fundamentals
 - To stay consistent and disciplined
-- To document learning with clean code and explanations
-  
+- To document learning with clean code and explanation
+
 ### 📚 Source
 - Love Babbar DSA Playlist
 - LeetCode practice
