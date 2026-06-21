@@ -7,7 +7,6 @@ using namespace std;
 // AAAA
 // BBBB
 // CCCC
-// DDDD
 int main() {
     int n;
     cin >> n;
