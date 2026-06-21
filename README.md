@@ -18,7 +18,6 @@ This repository documents my complete Data Structures & Algorithms journey start
 - Daily practice
 - Weekly revision
 - Continuous improvement
-
 ### 🧩 Topics to be  Covered
 - Arrays
 - Strings
