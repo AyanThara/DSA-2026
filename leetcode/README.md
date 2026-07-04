@@ -10,6 +10,8 @@ Maintain consistency through daily practice
 C++
 Cpp
 Problems Solved
+## Problems Solved
+
 | #   | Problem Name                                         | Difficulty |
 |-----|------------------------------------------------------|------------|
 | 1281| Subtract the Product and Sum of Digits of an Integer | Easy       |
@@ -30,3 +32,4 @@ Problems Solved
 | 1910| Remove All Occurrences of a Substring                | Medium     |
 | 136 | Single Number                                        | Easy       |
 | 11  | Container With Most Water                            | Medium     |
+| 540 | Single Element in a Sorted Array                     | Medium     |
