@@ -12,24 +12,32 @@ Cpp
 Problems Solved
 ## Problems Solved
 
-| #   | Problem Name                                         | Difficulty |
-|-----|------------------------------------------------------|------------|
-| 1281| Subtract the Product and Sum of Digits of an Integer | Easy       |
-| 191 | Number of 1 Bits                                     | Easy       |
-| 7   | Reverse Integer                                      | Medium     |
-| 88  | Merge Sorted Array                                   | Easy       |
-| 1009| Complement of Base 10 Integer                        | Easy       |
-| 852 | Peak Index in a Mountain Array                       | Easy       |
-| 283 | Move Zeroes                                          | Easy       |
-| 189 | Rotate Array                                         | Medium     |
-| 1752| Check if Array Is Sorted and Rotated                 | Easy       |
-| 53  | Maximum Subarray (Kadane’s Algorithm)                | Medium     |
-| 169 | Majority Element                                     | Easy       |
-| 121 | Best Time to Buy and Sell Stock                      | Easy       |
-| 238 | Product of Array Except Self                         | Medium     |
-| 344 | Reverse String                                       | Easy       |
-| 125 | Valid Palindrome                                     | Easy       |
-| 1910| Remove All Occurrences of a Substring                | Medium     |
-| 136 | Single Number                                        | Easy       |
-| 11  | Container With Most Water                            | Medium     |
-| 540 | Single Element in a Sorted Array                     | Medium     |
+| #    | Problem Name                                         | Difficulty |
+| ---- | ---------------------------------------------------- | ---------- |
+| 1281 | Subtract the Product and Sum of Digits of an Integer | Easy       |
+| 191  | Number of 1 Bits                                     | Easy       |
+| 7    | Reverse Integer                                      | Medium     |
+| 88   | Merge Sorted Array                                   | Easy       |
+| 1009 | Complement of Base 10 Integer                        | Easy       |
+| 852  | Peak Index in a Mountain Array                       | Easy       |
+| 283  | Move Zeroes                                          | Easy       |
+| 189  | Rotate Array                                         | Medium     |
+| 1752 | Check if Array Is Sorted and Rotated                 | Easy       |
+| 53   | Maximum Subarray (Kadane's Algorithm)                | Medium     |
+| 169  | Majority Element                                     | Easy       |
+| 121  | Best Time to Buy and Sell Stock                      | Easy       |
+| 238  | Product of Array Except Self                         | Medium     |
+| 344  | Reverse String                                       | Easy       |
+| 125  | Valid Palindrome                                     | Easy       |
+| 1910 | Remove All Occurrences of a Substring                | Medium     |
+| 136  | Single Number                                        | Easy       |
+| 11   | Container With Most Water                            | Medium     |
+| 540  | Single Element in a Sorted Array                     | Medium     |
+| 796  | Rotate String                                        | Easy       |
+| 1528 | Shuffle String                                       | Easy       |
+| 48   | Rotate Image                                         | Medium     |
+| 183  | Customers Who Never Order (SQL)                      | Easy       |
+| 86   | Partition List                                       | Medium     |
+| GFG  | Allocate Minimum Pages                               | Medium     |
+| GFG  | Painter's Partition Problem – II                     | Hard       |
+| GFG  | Aggressive Cows                                      | Medium     |
