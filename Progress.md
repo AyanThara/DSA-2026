@@ -516,5 +516,69 @@ Note:
   ### Key Learnings
   -Pointer
   -pointer to pointer
-  -Binary Search Algorithm
-  -
+----------------------------------------------------------------------------------------------------------------------------------------------  
+## 📅 Day 22 – DSA
+
+### Topics Covered
+- Binary Search
+
+### Problems Solved
+- Peak Index in a Mountain Array (LeetCode 852)
+- Single Element in a Sorted Array (LeetCode 540)
+- Aggressive Cows (GFG)
+
+### Key Learnings
+- Binary Search
+- Search Space Reduction
+- Finding Peak Element
+- Binary Search on Answer
+- Time Complexity of Binary Search
+----------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 23 – DSA
+
+### Topics Covered
+- Binary Search on Answer
+
+### Problems Solved
+- Allocate Minimum Pages (GFG)
+- Painter's Partition Problem (GFG)
+
+### Key Learnings
+- Binary Search on Answer
+- Validity Function (isPossible)
+- Minimum Feasible Answer
+- Maximum Feasible Answer
+- Search Space vs Answer Space
+---------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 24– DSA
+
+### Topics Covered
+- Arrays
+
+### Problems Solved
+- Product of Array Except Self (LeetCode 238)
+- Zero Flux Point (Equilibrium Index)
+
+### Key Learnings
+- Prefix Sum
+- Prefix Product
+- Suffix Product
+- Optimizing Brute Force Solutions
+- Space Optimization
+-----------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 25 – DSA
+
+### Topics Covered
+- Sorting Algorithms
+
+### Problems Solved
+- Bubble Sort
+- Selection Sort
+
+### Key Learnings
+- Bubble Sort
+- Selection Sort
+- In-place Sorting
+- Stable vs Unstable Sorting
+- Best, Average & Worst Time Complexity
+- Number of Comparisons and Swaps
