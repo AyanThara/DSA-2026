@@ -582,3 +582,23 @@ Note:
 - Stable vs Unstable Sorting
 - Best, Average & Worst Time Complexity
 - Number of Comparisons and Swaps
+-----------------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 26 – DSA
+
+### Topics Covered
+- Sorting Algorithms
+- Dutch National Flag Algorithm
+
+### Problems Solved
+- Insertion Sort
+- Sort Colors (LeetCode 75)
+
+### Key Learnings
+- Insertion Sort
+- Shifting Elements in an Array
+- Sorted and Unsorted Parts of an Array
+- Three Pointer Approach
+- Dutch National Flag Algorithm
+- In-place Sorting
+- Optimizing Sort Colors from O(n log n) to O(n)
+- Time and Space Complexity
