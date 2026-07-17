@@ -41,3 +41,4 @@ Problems Solved
 | GFG  | Allocate Minimum Pages                               | Medium     |
 | GFG  | Painter's Partition Problem – II                     | Hard       |
 | GFG  | Aggressive Cows                                      | Medium     |
+| 75   | Sort Colors                                          | Medium     |
