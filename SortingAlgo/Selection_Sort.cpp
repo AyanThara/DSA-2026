@@ -37,41 +37,28 @@ The inner loop searches the entire remaining unsorted array to find the minimum 
 ---
 
 ## Code
-
 ```cpp
 #include <iostream>
 using namespace std;
-
-void SelectionSort(int arr[], int n) {
-
-    for (int i = 0; i < n - 1; i++) {
-
-        int min_index = i;
-
-        for (int j = i + 1; j < n; j++) {
-
-            if (arr[min_index] > arr[j]) {
-                min_index = j;
-            }
+void insertionSort(int arr[], int n) {
+    for (int i = 1; i < n; i++) {
+        int curr = arr[i];
+        int prev = i - 1;
+        while (prev >= 0 && arr[prev] > curr) {
+            arr[prev + 1] = arr[prev];
+            prev--;
         }
-
-        swap(arr[i], arr[min_index]);
+        arr[prev + 1] = curr;
     }
 }
 
 int main() {
-
     int arr[] = {64, 25, 12, 22, 11};
     int n = 5;
-
-    SelectionSort(arr, n);
-
+    insertionSort(arr, n);
     cout << "Sorted Array: ";
-
     for (int i = 0; i < n; i++) {
         cout << arr[i] << " ";
     }
-
-    return 0;
 }
 ```
