@@ -608,9 +608,13 @@ Note:
 ### Topics Covered
 - Strings
 - Character Arrays
+- Remove All Occurrences of a Substring
+- String Functions
 
 ### Problems Solved
 - Reverse String (LeetCode 344)
+- Valid Palindrome(Leet code 125)
+-Remove All Occurrences of a Substring(Leetcode 1910)
 
 ### Key Learnings
 - Difference between Character Arrays and Strings
@@ -619,3 +623,13 @@ Note:
 - Reverse String using Two Pointers
 - In-place String Modification
 - Time & Space Complexity of String Operations
+- Two Pointer Technique on Strings
+- Skipping Non-Alphanumeric Characters
+- Case-Insensitive Character Comparison using `tolower()`
+- Built-in Functions: `isalnum()`, `tolower()`
+- String Searching using `find()`
+- Meaning of `string::npos`
+- Removing Substrings using `erase(position, length)`
+- Difference between `find()` and `erase()`
+
+---------------------------------------------------------------------------------------------------------------------------------------
