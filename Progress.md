@@ -582,7 +582,7 @@ Note:
 - Stable vs Unstable Sorting
 - Best, Average & Worst Time Complexity
 - Number of Comparisons and Swaps
------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------
 ## 📅 Day 26 – DSA
 
 ### Topics Covered
@@ -602,3 +602,20 @@ Note:
 - In-place Sorting
 - Optimizing Sort Colors from O(n log n) to O(n)
 - Time and Space Complexity
+---------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 27 – DSA
+
+### Topics Covered
+- Strings
+- Character Arrays
+
+### Problems Solved
+- Reverse String (LeetCode 344)
+
+### Key Learnings
+- Difference between Character Arrays and Strings
+- String Input & Output
+- String Functions (`length()`, `size()`, `substr()`, etc.)
+- Reverse String using Two Pointers
+- In-place String Modification
+- Time & Space Complexity of String Operations
