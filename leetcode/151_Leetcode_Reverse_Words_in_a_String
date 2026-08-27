@@ -1,0 +1,72 @@
+LeetCode 151 – Reverse Words in a String
+
+Problem
+
+Reverse the order of the words in a string.
+
+Example:
+"the sky is blue" → "blue is sky the"
+
+Approach
+
+Reverse the entire string.
+
+Extract each word.
+
+Reverse that individual word.
+
+Add it to the answer.
+
+Ignore empty words caused by extra spaces.
+
+Example
+
+"the sky is blue"
+→ reverse whole string → "eulb si yks eht"
+→ reverse each word → "blue is sky the"
+
+Code
+
+class Solution {
+public:
+    string reverseWords(string s) {
+        int n = s.length();
+        string ans = "";
+
+        reverse(s.begin(), s.end());
+
+        for(int i = 0; i < n; i++) {
+            string word = "";
+
+            while(i < n && s[i] != ' ') {
+                word += s[i];
+                i++;
+            }
+
+            reverse(word.begin(), word.end());
+
+            if(word.length() > 0)
+                ans += ' ' + word;
+        }
+
+        return ans.substr(1);
+    }
+};
+
+Key Concepts
+
+reverse(s.begin(), s.end()) reverses the whole string.
+
+reverse(word.begin(), word.end()) reverses only the current word.
+
+word.length() > 0 skips empty words caused by spaces.
+
+ans.substr(1) removes the extra space at the beginning.
+
+i scans the string and finds words.
+
+Complexity
+
+Time: O(n)
+
+Extra Space: O(n)
