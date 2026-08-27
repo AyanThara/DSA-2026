@@ -633,3 +633,35 @@ Note:
 - Difference between `find()` and `erase()`
 
 ---------------------------------------------------------------------------------------------------------------------------------------
+## 📅 Day 28 – DSA
+
+### Topics Covered
+- String Manipulation
+- Two Pointer Technique
+- String Compression
+- Reversing Words in a String
+
+### Problems Solved
+- Reverse Words in a String (LeetCode 151)
+- String Compression (LeetCode 443)
+
+### Key Learnings
+- Reversing a Complete String
+- Reversing Individual Words
+- Using `begin()` and `end()` with `reverse()`
+- Handling Spaces in Strings
+- Extracting Words from a String
+- Building an Answer String
+- Using `substr()` to Remove Extra Spaces
+- Two Pointer Technique on Strings
+- String Compression using Character Groups
+- Counting Consecutive Characters
+- Using a Scanning Pointer and Write Pointer
+- Converting Numbers to Strings using `to_string()`
+- Storing String Characters into a `vector<char>`
+- Understanding `char` vs `string`
+- Using Range-Based `for` Loops
+- In-place Modification of Character Arrays
+- Time & Space Complexity of String Operations
+
+---------------------------------------------------------------------------------------------------------------------------------------
