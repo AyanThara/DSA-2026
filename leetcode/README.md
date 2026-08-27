@@ -11,7 +11,6 @@ C++
 Cpp
 Problems Solved
 ## Problems Solved
-
 | #    | Problem Name                                         | Difficulty |
 | ---- | ---------------------------------------------------- | ---------- |
 | 1281 | Subtract the Product and Sum of Digits of an Integer | Easy       |
@@ -42,3 +41,30 @@ Problems Solved
 | GFG  | Painter's Partition Problem – II                     | Hard       |
 | GFG  | Aggressive Cows                                      | Medium     |
 | 75   | Sort Colors                                          | Medium     |
+| 15   | 3Sum                                                 | Medium     |
+| 16   | 3Sum Closest                                         | Medium     |
+| 28   | Find the Index of the First Occurrence in a String   | Easy       |
+| 29   | Divide Two Integers                                  | Medium     |
+| 54   | Spiral Matrix                                        | Medium     |
+| 59   | Spiral Matrix II                                     | Medium     |
+| 67   | Add Binary                                           | Easy       |
+| 137  | Single Number II                                     | Medium     |
+| 151  | Reverse Words in a String                            | Medium     |
+| 152  | Maximum Product Subarray                             | Medium     |
+| 175  | Combine Two Tables (SQL)                             | Easy       |
+| 176  | Second Highest Salary (SQL)                         | Medium     |
+| 193  | Valid Phone Numbers (Shell)                          | Easy       |
+| 195  | Tenth Line (Shell)                                   | Easy       |
+| 202  | Happy Number                                         | Easy       |
+| 210  | Course Schedule II                                   | Medium     |
+| 219  | Contains Duplicate II                                | Easy       |
+| 283  | Move Zeroes                                          | Easy       |
+| 345  | Reverse Vowels of a String                           | Easy       |
+| 349  | Intersection of Two Arrays                           | Easy       |
+| 3718 | Smallest Missing Multiple of K                       | Easy       |
+| 414  | Third Maximum Number                                  | Easy       |
+| 443  | String Compression                                   | Medium     |
+| 896  | Monotonic Array                                       | Easy       |
+| 2965 | Find Missing and Repeated Values                     | Easy       |
+| 547  | Number of Provinces                                   | Medium     |
+| 633  | Sum of Square Numbers                                | Medium     |
