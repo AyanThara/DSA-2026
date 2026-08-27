@@ -1,0 +1,91 @@
+LeetCode 443 – String Compression
+
+Problem
+
+Compress consecutive repeated characters in a character array.
+
+Example:
+['a','a','b','b','c','c','c']
+
+becomes:
+
+['a','2','b','2','c','3']
+
+Return the length of the compressed part: 6.
+
+Approach
+
+Use two pointers:
+
+i scans the array and finds groups of equal characters.
+
+index tells us where to write the compressed result.
+
+Example
+
+For:
+a a a b b c
+
+The first group is a a a, so:
+count = 3
+
+Write:
+a 3
+
+Then move to the next group.
+
+Code
+
+class Solution {
+public:
+    int compress(vector<char>& chars) {
+        int index = 0;
+        int n = chars.size();
+
+        for(int i = 0; i < n; i++) {
+            char ch = chars[i];
+            int count = 0;
+
+            while(i < n && chars[i] == ch) {
+                count++;
+                i++;
+            }
+
+            chars[index++] = ch;
+
+            if(count > 1) {
+                string str = to_string(count);
+
+                for(char digit : str) {
+                    chars[index++] = digit;
+                }
+            }
+
+            i--;
+        }
+
+        return index;
+    }
+};
+
+Key Concepts
+
+count stores how many consecutive copies of a character exist.
+
+to_string(count) converts a number into characters.
+
+If count = 12, the string is "12", so the loop stores '1' and '2' separately in vector<char>.
+
+index is the write pointer.
+
+i is the scanning pointer.
+
+i-- prevents the outer for loop from skipping the first character of the next group.
+
+The original array is modified in-place.
+
+Complexity
+
+Time: O(n)
+
+Extra Space: O(log n) for the temporary count string in the worst case.
