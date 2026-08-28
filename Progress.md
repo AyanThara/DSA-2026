@@ -663,5 +663,32 @@ Note:
 - Using Range-Based `for` Loops
 - In-place Modification of Character Arrays
 - Time & Space Complexity of String Operations
+------------------------------------------------------------------------------------------------------------------------------------------------## 📅 Day 29 – DSA
 
----------------------------------------------------------------------------------------------------------------------------------------
+### Topics Covered
+- String Manipulation
+- Two Pointer Technique
+- Palindrome Checking
+- String Searching
+- Removing Substrings
+
+### Problems Solved
+- Valid Palindrome (LeetCode 125)
+- Remove All Occurrences of a Substring (LeetCode 1910)
+
+### Revision
+- Valid Palindrome using Two Pointers
+- Using `isalnum()` to check letters and numbers
+- Using `tolower()` for case-insensitive comparison
+- Skipping spaces and special characters
+- Moving left and right pointers toward the center
+- Understanding when to return `false` and `true`
+- String searching using `find()`
+- Understanding `string::npos`
+- Finding the position of a substring
+- Removing substrings using `erase(position, length)`
+- Using `while` to repeatedly find and remove a substring
+- Difference between `find()` and `erase()`
+- Time & Space Complexity of String Operations
+
+------------------------------------------------------------------------------------------------------------------------------------------------
