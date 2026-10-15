@@ -152,7 +152,6 @@ Note:
   - operators
   - pattern logic
 
-  
 ### Notes
 - Understood syntax and use of for loop
 - Learned difference between for loop and while loop
