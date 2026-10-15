@@ -241,7 +241,6 @@ Note:
 - Return types
 - Pass by value
 - Pass by reference
-
   
 ### 🧩 Problems Solved
 1. Add two numbers using function  
