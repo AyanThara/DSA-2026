@@ -170,7 +170,6 @@ Note:
 - Operator precedence
 - Revision of previous concepts
 
-
 ### Notes
 - Understood the difference between local and global variable scope
 - Learned how variable scope affects accessibility and lifetime
